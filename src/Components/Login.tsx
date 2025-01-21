@@ -98,7 +98,7 @@ const Login: React.FC = () => {
       >
         Log In
       </button>
-
+        <p>note: user1, Password@123</p>
       {/* Success or Error Message */}
       {success && (
         <p
